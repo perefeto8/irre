@@ -169,3 +169,13 @@
 [09Jan2025 07:13:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [09Jan2025 07:13:51.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [09Jan2025 07:14:20.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 07:22:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[09Jan2025 07:25:28.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 51.500000, 88.500000, 1109.500000]
+[09Jan2025 07:26:09.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 07:26:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[09Jan2025 07:28:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 07:28:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Infernal Musketeer]
+[09Jan2025 07:29:57.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -29.500000, 68.500000, -386.500000]
+[09Jan2025 07:32:14.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Grave Ravager]
+[09Jan2025 07:33:45.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 94.500000, 82.000000, -1281.500000]
+[09Jan2025 07:33:45.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5070ms or 101 ticks behind

@@ -6289,6 +6289,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_5": "2025-01-09 07:31:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-01-09 06:32:59 +0000"
@@ -6325,6 +6331,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_3": "2025-01-09 07:28:43 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_quartz_slab": {
     "criteria": {
       "has_block": "2025-01-09 06:36:31 +0000"
@@ -6334,6 +6346,12 @@
   "securitycraft:recipes/building_blocks/reinforced_quartz_pillar": {
     "criteria": {
       "has_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:infernal_hatman": {
+    "criteria": {
+      "infernal_hatman_0": "2025-01-09 07:28:43 +0000"
     },
     "done": true
   },
@@ -6364,6 +6382,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-09 06:32:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-01-09 07:32:14 +0000"
     },
     "done": true
   },
