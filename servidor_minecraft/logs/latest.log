@@ -219,3 +219,40 @@
 [09Jan2025 07:58:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 400.500000, 152.500000, -2688.500000]
 [09Jan2025 08:00:04.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [09Jan2025 08:00:20.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 08:01:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 758.500000, 127.856783, -2173.500000]
+[09Jan2025 08:01:32.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 652.500000, 127.856783, -1877.500000]
+[09Jan2025 08:01:33.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[09Jan2025 08:01:57.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 555.500000, 127.856783, -1978.500000]
+[09Jan2025 08:02:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 791.500000, 127.856783, -1958.500000]
+[09Jan2025 08:03:22.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 1018.500000, 123.756827, -2086.500000]
+[09Jan2025 08:03:31.601] [Worker-Main-105/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 08:03:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 600.500000, 123.756827, -1708.500000]
+[09Jan2025 08:03:55.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 514.500000, 123.756827, -1521.500000]
+[09Jan2025 08:03:56.905] [Worker-Main-76/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09Jan2025 08:04:09.655] [Worker-Main-76/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Jan2025 08:04:32.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 45.500000, 123.756827, -973.500000]
+[09Jan2025 08:04:47.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 264.500000, 123.756827, -973.500000]
+[09Jan2025 08:04:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 111.500000, 123.756827, -778.500000]
+[09Jan2025 08:05:04.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 338.500000, 123.756827, -715.500000]
+[09Jan2025 08:05:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 264.500000, 67.500000, -973.500000]
+[09Jan2025 08:05:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[09Jan2025 08:06:48.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -307.500000, 89.765463, -1038.500000]
+[09Jan2025 08:07:00.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -111.500000, 89.765463, -1187.500000]
+[09Jan2025 08:07:38.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 27.500000, 126.127389, -1365.500000]
+[09Jan2025 08:07:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 66.500000, 126.127389, -1172.500000]
+[09Jan2025 08:08:05.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -210.500000, 126.127389, -1394.500000]
+[09Jan2025 08:08:20.323] [Worker-Main-105/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Jan2025 08:08:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -428.500000, 126.127389, -1338.500000]
+[09Jan2025 08:08:51.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[09Jan2025 08:08:51.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[09Jan2025 08:08:51.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[09Jan2025 08:08:56.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[09Jan2025 08:08:56.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[09Jan2025 08:08:56.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[09Jan2025 08:08:56.940] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 08:10:22.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:39723] logged in with entity id 25063 at (-453.14778303674126, 118.63305727326821, -1293.8536185705186)
+[09Jan2025 08:10:22.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[09Jan2025 08:10:22.200] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[09Jan2025 08:10:29.246] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[09Jan2025 08:10:29.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[09Jan2025 08:10:47.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
