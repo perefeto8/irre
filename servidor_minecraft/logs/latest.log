@@ -178,3 +178,15 @@
 [09Jan2025 20:53:12.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23002, l='ServerLevel[world]', x=-851.53, y=72.00, z=1360.62] died, message: 'Librarian blew up'
 [09Jan2025 20:53:12.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 blew up
 [09Jan2025 20:53:13.105] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[09Jan2025 20:59:00.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
+[09Jan2025 20:59:00.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[09Jan2025 20:59:00.663] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[09Jan2025 21:00:28.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.78.245.127:42333] logged in with entity id 25272 at (-1039.83166443708, 111.0, 1089.9960973784432)
+[09Jan2025 21:00:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[09Jan2025 21:00:28.507] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[09Jan2025 21:00:29.938] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[09Jan2025 21:00:29.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[09Jan2025 21:00:35.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[09Jan2025 21:00:36.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[09Jan2025 21:00:36.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[09Jan2025 21:02:06.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
