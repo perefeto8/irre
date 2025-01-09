@@ -147,3 +147,5 @@
 [09Jan2025 06:24:27.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [09Jan2025 06:25:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -43.500000, 68.500000, -380.500000]
 [09Jan2025 06:25:56.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[09Jan2025 06:29:09.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 06:32:32.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ocean Looter]
