@@ -2452,3 +2452,13 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [09Jan2025 06:32:32.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ocean Looter]
 [09Jan2025 06:35:25.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jan2025 06:35:25.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 06:40:25.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 06:40:25.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 06:45:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Deliverance]
+[09Jan2025 06:45:21.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Mastery 1]
+[09Jan2025 06:45:25.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 06:45:25.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 06:46:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Not of Chocolate]
+[09Jan2025 06:46:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Back to childhood]
+[09Jan2025 06:47:54.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Soulbound]
+[09Jan2025 06:49:10.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Mastery 2]

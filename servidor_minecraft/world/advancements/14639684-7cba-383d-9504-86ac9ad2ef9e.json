@@ -6235,9 +6235,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/free_soul": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 06:45:14 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:elder_guardian_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-01-09 06:32:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 06:45:21 +0000"
     },
     "done": true
   },
@@ -6247,9 +6259,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-09 06:32:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks": {
+    "criteria": {
+      "has_block": "2025-01-09 06:36:31 +0000"
     },
     "done": true
   },
@@ -6271,15 +6295,69 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_slab": {
+    "criteria": {
+      "has_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_pillar": {
+    "criteria": {
+      "has_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_quartz": {
+    "criteria": {
+      "has_item": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-01-09 06:27:58 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_quartz_block_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-09 06:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-09 06:32:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_stairs": {
+    "criteria": {
+      "has_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_slab_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_quartz_bricks_from_reinforced_quartz_block_stonecutting": {
+    "criteria": {
+      "has_reinforced_quartz_block": "2025-01-09 06:36:31 +0000"
     },
     "done": true
   },
