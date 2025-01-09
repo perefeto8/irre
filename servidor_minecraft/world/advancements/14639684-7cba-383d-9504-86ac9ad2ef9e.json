@@ -6247,6 +6247,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_2": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 06:49:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mastery_1": {
     "criteria": {
       "coded_trigger": "2025-01-09 06:45:21 +0000"
@@ -6271,6 +6277,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_soulbound": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 06:47:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_quartz_bricks": {
     "criteria": {
       "has_block": "2025-01-09 06:36:31 +0000"
@@ -6280,6 +6292,12 @@
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-01-09 06:32:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 06:49:55 +0000"
     },
     "done": true
   },
@@ -6298,6 +6316,12 @@
   "securitycraft:recipes/building_blocks/reinforced_quartz_stairs_from_reinforced_quartz_block_stonecutting": {
     "criteria": {
       "has_reinforced_quartz_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-09 06:46:37 +0000"
     },
     "done": true
   },
@@ -6358,6 +6382,12 @@
   "securitycraft:recipes/building_blocks/reinforced_quartz_bricks_from_reinforced_quartz_block_stonecutting": {
     "criteria": {
       "has_reinforced_quartz_block": "2025-01-09 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-01-09 06:46:22 +0000"
     },
     "done": true
   },
