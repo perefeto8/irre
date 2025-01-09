@@ -375,3 +375,19 @@
 [09Jan2025 22:19:53.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
 [09Jan2025 22:20:03.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
 [09Jan2025 22:20:07.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> siono
+[09Jan2025 22:20:23.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4424ms or 88 ticks behind
+[09Jan2025 22:20:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> yo tengo un wbo
+[09Jan2025 22:20:44.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jan2025 22:20:44.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jan2025 22:20:45.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Server closed
+[09Jan2025 22:20:45.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[09Jan2025 22:20:45.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Server closed
+[09Jan2025 22:20:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[09Jan2025 22:20:45.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jan2025 22:20:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jan2025 22:21:18.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jan2025 22:21:18.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jan2025 22:21:18.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jan2025 22:21:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jan2025 22:21:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jan2025 22:21:18.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
