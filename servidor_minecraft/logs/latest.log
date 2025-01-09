@@ -283,3 +283,44 @@
 [09Jan2025 08:19:03.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -1147.500000, 117.500000, 65.500000]
 [09Jan2025 08:19:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [09Jan2025 08:20:56.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[09Jan2025 08:21:20.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[09Jan2025 08:21:48.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28560, l='ServerLevel[world]', x=-1241.50, y=64.00, z=50.78] died, message: 'Farmer was slain by Door Knight'
+[09Jan2025 08:22:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 08:22:35.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[09Jan2025 08:22:44.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -1038.500000, 68.500000, 48.500000]
+[09Jan2025 08:23:00.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 202.500000, 76.385650, 409.500000]
+[09Jan2025 08:23:10.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 21.500000, 76.385650, 351.500000]
+[09Jan2025 08:23:16.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 375.500000, 76.385650, 75.500000]
+[09Jan2025 08:23:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 277.500000, 76.385650, 245.500000]
+[09Jan2025 08:23:32.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 117.500000, 76.385650, 596.500000]
+[09Jan2025 08:23:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 170.500000, 76.385650, 799.500000]
+[09Jan2025 08:23:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 342.500000, 76.385650, 601.500000]
+[09Jan2025 08:24:04.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 447.500000, 76.385650, 402.500000]
+[09Jan2025 08:24:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 450.500000, 63.500000, 580.500000]
+[09Jan2025 08:24:59.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -269.500000, 22.714108, 1276.500000]
+[09Jan2025 08:25:18.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[09Jan2025 08:25:18.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[09Jan2025 08:25:18.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[09Jan2025 08:25:23.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[09Jan2025 08:25:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[09Jan2025 08:25:23.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[09Jan2025 08:26:53.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:54721] logged in with entity id 29753 at (-269.5, 22.714107552839565, 1276.5)
+[09Jan2025 08:26:53.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[09Jan2025 08:26:53.835] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[09Jan2025 08:26:56.667] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[09Jan2025 08:26:56.667] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[09Jan2025 08:27:20.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[09Jan2025 08:27:21.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[09Jan2025 08:27:21.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[09Jan2025 08:28:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -267.500000, 22.714108, 1266.500000]
+[09Jan2025 08:28:51.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -429.500000, 22.714108, 1389.500000]
+[09Jan2025 08:29:15.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -342.500000, 63.500000, 1462.500000]
+[09Jan2025 08:29:35.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -50.500000, 63.500000, 1306.500000]
+[09Jan2025 08:29:44.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -131.500000, 63.500000, 1515.500000]
+[09Jan2025 08:29:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 66.500000, 63.500000, 1567.500000]
+[09Jan2025 08:30:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 177.500000, 63.500000, 1343.500000]
+[09Jan2025 08:30:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 298.500000, 63.500000, 1058.500000]
+[09Jan2025 08:30:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 398.500000, 63.500000, 837.500000]
+[09Jan2025 08:30:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 339.500000, 63.500000, 1439.500000]
+[09Jan2025 08:30:51.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 407.500000, 63.500000, 1234.500000]
+[09Jan2025 08:31:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -1079.500000, 66.501479, 1754.500000]
