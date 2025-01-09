@@ -238,3 +238,48 @@
 [09Jan2025 21:36:48.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
 [09Jan2025 21:36:49.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
 [09Jan2025 21:36:49.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[09Jan2025 21:38:00.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Jan2025 21:38:20.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5671ms or 113 ticks behind
+[09Jan2025 21:40:23.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was slain by Blaze
+[09Jan2025 21:40:24.567] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[09Jan2025 21:45:59.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> irregular vendeme perlas de end
+[09Jan2025 21:46:11.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> no esta on
+[09Jan2025 21:46:15.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> No hay
+[09Jan2025 21:46:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> :v
+[09Jan2025 21:46:30.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> alquien tiene perlar
+[09Jan2025 21:46:50.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> cuantas?
+[09Jan2025 21:46:52.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> seta eres irre
+[09Jan2025 21:47:03.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> nou
+[09Jan2025 21:47:14.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> 1 nomas es que necesito pa ir aver mis cosas
+[09Jan2025 21:47:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tengo una tumba encantada si quieres
+[09Jan2025 21:47:58.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was slain by Enderman
+[09Jan2025 21:47:58.593] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[09Jan2025 21:48:05.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> para que encantes tu llave
+[09Jan2025 21:49:28.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved too quickly! 4.189122568463574,1.4163722256396554,-9.009695684822077
+[09Jan2025 21:49:28.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3553ms or 71 ticks behind
+[09Jan2025 21:50:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> estas en tu base
+[09Jan2025 21:50:47.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved too quickly! -10.124494633757195,0.25086736114158725,1.8899620642785067
+[09Jan2025 21:50:47.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[09Jan2025 21:51:52.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 has made the advancement [Let The Magic Happen]
+[09Jan2025 21:52:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> ya te traigo algo perame
+[09Jan2025 21:53:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was shot by Skeleton
+[09Jan2025 21:53:14.798] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[09Jan2025 21:54:02.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> no era la llave
+[09Jan2025 21:54:39.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Strange Encounter]
+[09Jan2025 21:54:44.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[09Jan2025 21:55:49.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8a4d229b-18b7-318b-9944-a20650c810e8 timed out
+[09Jan2025 21:55:49.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player XnoniX1
+[09Jan2025 21:55:49.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[09Jan2025 21:55:58.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ab30fd7[id=<null>,name=XnoniX1,properties={},legacy=false] (/127.82.50.58:46899) lost connection: Disconnected
+[09Jan2025 21:56:03.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Timed out
+[09Jan2025 21:56:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[09Jan2025 21:56:03.545] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[09Jan2025 21:56:03.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.82.50.58:44575] logged in with entity id 57582 at (-355.69999998807907, 68.0, -111.30683303961149)
+[09Jan2025 21:56:03.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[09Jan2025 21:56:03.794] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[09Jan2025 21:56:04.143] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[09Jan2025 21:56:04.144] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[09Jan2025 21:56:31.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[09Jan2025 21:56:32.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[09Jan2025 21:56:32.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[09Jan2025 21:56:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> ya llege a mi tumba
