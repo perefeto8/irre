@@ -4346,9 +4346,10 @@
       "minecraft:crimson_forest": "2025-01-06 21:35:55 +0000",
       "minecraft:nether_wastes": "2025-01-04 22:04:52 +0000",
       "minecraft:soul_sand_valley": "2025-01-06 21:47:44 +0000",
-      "minecraft:basalt_deltas": "2025-01-04 22:06:58 +0000"
+      "minecraft:basalt_deltas": "2025-01-04 22:06:58 +0000",
+      "minecraft:warped_forest": "2025-01-09 07:43:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
