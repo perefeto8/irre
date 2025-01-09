@@ -399,3 +399,23 @@
 [09Jan2025 08:53:32.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
 [09Jan2025 08:53:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
 [09Jan2025 08:53:32.538] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[09Jan2025 08:59:00.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:59613] logged in with entity id 37792 at (-543.7, 75.0, -2223.7)
+[09Jan2025 08:59:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[09Jan2025 08:59:00.359] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[09Jan2025 08:59:06.562] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[09Jan2025 08:59:06.563] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[09Jan2025 08:59:24.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[09Jan2025 08:59:26.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[09Jan2025 08:59:26.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[09Jan2025 09:00:15.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[09Jan2025 09:01:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -1144.500000, 114.500000, 66.500000]
+[09Jan2025 09:01:11.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[09Jan2025 09:01:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 09:02:38.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[09Jan2025 09:02:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[09Jan2025 09:03:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -51.500000, 68.500000, -386.500000]
+[09Jan2025 09:05:53.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Made Seta33 no longer a server operator]
+[09Jan2025 09:06:18.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Seta33's game mode to Survival Mode
+[09Jan2025 09:08:21.790] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Seta33" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-56, y=68, z=-379}] too quickly!
+[09Jan2025 09:12:17.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Seta33's game mode to Creative Mode
+[09Jan2025 09:14:08.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Seta33's game mode to Survival Mode
