@@ -190,3 +190,5 @@
 [09Jan2025 21:00:36.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [09Jan2025 21:00:36.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [09Jan2025 21:02:06.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[09Jan2025 21:08:45.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[09Jan2025 21:12:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
