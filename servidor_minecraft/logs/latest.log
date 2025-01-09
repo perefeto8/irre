@@ -142,3 +142,8 @@
 [09Jan2025 06:10:37.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [09Jan2025 06:10:37.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [09Jan2025 06:10:49.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12156ms or 243 ticks behind
+[09Jan2025 06:24:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Seta33 a server operator
+[09Jan2025 06:24:11.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[09Jan2025 06:24:27.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[09Jan2025 06:25:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -43.500000, 68.500000, -380.500000]
+[09Jan2025 06:25:56.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
