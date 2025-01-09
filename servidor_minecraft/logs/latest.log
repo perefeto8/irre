@@ -165,3 +165,6 @@
 [09Jan2025 20:14:36.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6147ms or 122 ticks behind
 [09Jan2025 20:15:56.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved wrongly!
 [09Jan2025 20:17:11.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1373, l='ServerLevel[world]', x=-854.56, y=72.92, z=1372.53] died, message: 'Farmer blew up'
+[09Jan2025 20:26:44.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[09Jan2025 20:26:44.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[09Jan2025 20:26:44.484] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
