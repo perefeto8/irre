@@ -168,3 +168,13 @@
 [09Jan2025 20:26:44.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
 [09Jan2025 20:26:44.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
 [09Jan2025 20:26:44.484] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[09Jan2025 20:51:02.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21587, l='ServerLevel[world]', x=-839.50, y=72.00, z=1350.70] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:02.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21588, l='ServerLevel[world]', x=-845.50, y=72.00, z=1350.50] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:02.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21589, l='ServerLevel[world]', x=-841.47, y=72.00, z=1350.70] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:02.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21591, l='ServerLevel[world]', x=-843.48, y=72.04, z=1350.70] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:09.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Nightmare Stalker
+[09Jan2025 20:51:10.438] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[09Jan2025 20:51:54.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has reached the goal [Fortuitous Militia]
+[09Jan2025 20:53:12.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23002, l='ServerLevel[world]', x=-851.53, y=72.00, z=1360.62] died, message: 'Librarian blew up'
+[09Jan2025 20:53:12.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 blew up
+[09Jan2025 20:53:13.105] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved

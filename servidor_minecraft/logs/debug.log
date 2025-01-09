@@ -2645,3 +2645,21 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [09Jan2025 20:41:03.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jan2025 20:43:33.515] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
 [09Jan2025 20:43:33.516] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md20294e$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[09Jan2025 20:46:03.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 20:46:03.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 20:51:02.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21587, l='ServerLevel[world]', x=-839.50, y=72.00, z=1350.70] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:02.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21588, l='ServerLevel[world]', x=-845.50, y=72.00, z=1350.50] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:02.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21589, l='ServerLevel[world]', x=-841.47, y=72.00, z=1350.70] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:02.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21591, l='ServerLevel[world]', x=-843.48, y=72.04, z=1350.70] was struck by lightning LightningBolt['Lightning Bolt'/22651, l='ServerLevel[world]', x=-842.50, y=71.00, z=1351.50].
+[09Jan2025 20:51:03.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 20:51:03.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 20:51:09.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Nightmare Stalker
+[09Jan2025 20:51:10.413] [Server thread/DEBUG] [tombstone/]: A new grave of the player Erickduran2002 was created at position [x:-844, y:69, z:1349, dim:minecraft:overworld]
+[09Jan2025 20:51:10.438] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[09Jan2025 20:51:54.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has reached the goal [Fortuitous Militia]
+[09Jan2025 20:53:12.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23002, l='ServerLevel[world]', x=-851.53, y=72.00, z=1360.62] died, message: 'Librarian blew up'
+[09Jan2025 20:53:12.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 blew up
+[09Jan2025 20:53:13.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player Erickduran2002 was created at position [x:-851, y:72, z:1365, dim:minecraft:overworld]
+[09Jan2025 20:53:13.105] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[09Jan2025 20:56:03.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 20:56:03.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
