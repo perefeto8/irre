@@ -213,3 +213,28 @@
 [09Jan2025 21:20:57.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [09Jan2025 21:20:57.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [09Jan2025 21:27:14.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Hidden in the Depths]
+[09Jan2025 21:30:51.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:37891] logged in with entity id 34747 at (-362.3650563430324, 67.0, -115.04039820700929)
+[09Jan2025 21:30:51.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[09Jan2025 21:30:51.234] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[09Jan2025 21:30:52.835] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[09Jan2025 21:30:52.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[09Jan2025 21:30:55.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[09Jan2025 21:30:58.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[09Jan2025 21:30:59.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[09Jan2025 21:30:59.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[09Jan2025 21:32:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> hola bros
+[09Jan2025 21:32:31.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> hola hola
+[09Jan2025 21:36:03.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[09Jan2025 21:36:16.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Spooky Scary Skeleton]
+[09Jan2025 21:36:36.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Timed out
+[09Jan2025 21:36:36.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[09Jan2025 21:36:36.929] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[09Jan2025 21:36:45.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:55523] logged in with entity id 41667 at (-3127.891887228639, 37.0, -1010.9739331651944)
+[09Jan2025 21:36:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[09Jan2025 21:36:45.293] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[09Jan2025 21:36:46.885] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[09Jan2025 21:36:46.888] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[09Jan2025 21:36:46.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved too quickly! 8.716312730186814,0.0,-4.939938348461055
+[09Jan2025 21:36:48.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[09Jan2025 21:36:49.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[09Jan2025 21:36:49.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
