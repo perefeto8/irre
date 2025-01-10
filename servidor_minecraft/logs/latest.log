@@ -274,3 +274,19 @@
 [10Jan2025 22:05:43.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
 [10Jan2025 22:05:47.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
 [10Jan2025 22:05:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Strange Encounter]
+[10Jan2025 22:06:18.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[10Jan2025 22:06:52.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:53011] logged in with entity id 21535 at (-54.35862804140109, 68.5, -382.57474784622906)
+[10Jan2025 22:06:52.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[10Jan2025 22:06:53.121] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[10Jan2025 22:06:55.108] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[10Jan2025 22:06:55.109] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[10Jan2025 22:06:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[10Jan2025 22:07:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 22:07:17.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[10Jan2025 22:07:18.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[10Jan2025 22:07:18.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[10Jan2025 22:07:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[10Jan2025 22:07:26.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
+[10Jan2025 22:07:46.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[10Jan2025 22:07:46.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[10Jan2025 22:07:46.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
