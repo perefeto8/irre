@@ -191,3 +191,32 @@
 [10Jan2025 20:38:23.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
 [10Jan2025 20:38:28.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nica es tanto
 [10Jan2025 20:38:42.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> serio
+[10Jan2025 20:41:02.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 20:41:06.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Jan2025 20:43:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[10Jan2025 20:44:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> oe son 2 stack y medio :v
+[10Jan2025 20:45:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 20:45:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[10Jan2025 20:46:37.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 20:47:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[10Jan2025 20:47:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[10Jan2025 20:48:25.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:49363] logged in with entity id 11041 at (-166.5, 70.0, -116.5)
+[10Jan2025 20:48:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[10Jan2025 20:48:25.156] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[10Jan2025 20:48:26.413] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[10Jan2025 20:48:26.414] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[10Jan2025 20:48:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 20:48:32.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[10Jan2025 20:48:33.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[10Jan2025 20:48:33.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[10Jan2025 20:48:36.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[10Jan2025 20:48:59.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[10Jan2025 20:50:01.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> kbro de mrd
+[10Jan2025 20:50:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> fuera
+[10Jan2025 20:50:12.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Seta33
+[10Jan2025 20:50:12.916] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[10Jan2025 20:50:18.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[10Jan2025 20:50:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ctmr 60 niveles
+[10Jan2025 20:50:27.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Irregular24'/12023, l='ServerLevel[world]', x=-1155.42, y=109.00, z=68.04] died: Irregular24 was slain by Seta33
+[10Jan2025 20:50:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[10Jan2025 20:50:45.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> quien se colo en mi casa si esta todo reforzado
