@@ -179,3 +179,24 @@
 [10Jan2025 21:31:49.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -9.542509407953787,0.0,3.586651413784921
 [10Jan2025 21:32:20.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Added tag 'Inv' to Irregular24]
 [10Jan2025 21:33:36.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
+[10Jan2025 21:33:55.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[10Jan2025 21:34:01.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[10Jan2025 21:34:12.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
+[10Jan2025 21:34:20.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4899ms or 97 ticks behind
+[10Jan2025 21:34:41.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[10Jan2025 21:35:57.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[10Jan2025 21:36:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 21:36:45.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[10Jan2025 21:36:50.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
+[10Jan2025 21:42:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[10Jan2025 21:42:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 21:43:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> oe mrd
+[10Jan2025 21:43:53.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was killed whilst fighting ERLIN
+[10Jan2025 21:43:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Killed Seta33]
+[10Jan2025 21:43:53.129] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[10Jan2025 21:44:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> que tienes Seta33
+[10Jan2025 21:44:10.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was killed whilst fighting ERLIN
+[10Jan2025 21:44:10.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Killed Seta33]
+[10Jan2025 21:44:10.641] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[10Jan2025 21:44:23.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
+[10Jan2025 21:44:41.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> q mrd tienes
