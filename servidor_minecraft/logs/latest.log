@@ -146,3 +146,5 @@
 [10Jan2025 02:51:32.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11330ms or 226 ticks behind
 [10Jan2025 02:54:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Seta33 a server operator
 [10Jan2025 02:58:34.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[10Jan2025 03:01:52.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -1146.500000, 114.500000, 64.500000]
+[10Jan2025 03:01:52.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
