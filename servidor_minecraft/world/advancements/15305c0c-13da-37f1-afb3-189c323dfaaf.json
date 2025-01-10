@@ -6516,5 +6516,29 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_jungle_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-10 21:18:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_jungle_stairs": {
+    "criteria": {
+      "has_block": "2025-01-10 21:18:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_jungle_slab": {
+    "criteria": {
+      "has_block": "2025-01-10 21:18:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_button": {
+    "criteria": {
+      "has_block": "2025-01-10 21:18:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
