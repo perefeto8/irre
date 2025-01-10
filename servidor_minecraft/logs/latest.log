@@ -145,3 +145,20 @@
 [10Jan2025 18:41:27.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1316, y=61, z=1838} BlockPos{x=-1316, y=62, z=1839}
 [10Jan2025 18:46:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set the time to 1000]
 [10Jan2025 18:48:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Tactical Fishing]
+[10Jan2025 18:51:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [The Parrots and the Bats]
+[10Jan2025 18:51:49.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[10Jan2025 18:51:49.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[10Jan2025 18:51:49.774] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[10Jan2025 18:52:04.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jan2025 18:52:04.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[10Jan2025 18:52:20.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jan2025 18:52:20.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jan2025 18:52:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jan2025 18:52:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jan2025 18:52:20.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jan2025 18:52:20.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jan2025 18:52:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jan2025 18:52:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jan2025 18:52:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jan2025 18:52:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jan2025 18:52:20.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
