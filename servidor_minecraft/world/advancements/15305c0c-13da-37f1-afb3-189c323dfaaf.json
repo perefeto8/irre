@@ -6540,5 +6540,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:infernal_medicine": {
+    "criteria": {
+      "infernal_medicine_0": "2025-01-10 21:54:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
