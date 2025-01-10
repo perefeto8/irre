@@ -150,3 +150,8 @@
 [10Jan2025 03:01:52.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
 [10Jan2025 03:17:33.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1783, l='ServerLevel[world]', x=-1147.50, y=81.44, z=60.70] died, message: 'Fisherman was slain by Zombie'
 [10Jan2025 04:09:36.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[10Jan2025 04:10:43.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[10Jan2025 04:17:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[10Jan2025 04:17:26.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1848, l='ServerLevel[world]', x=-1067.66, y=66.00, z=117.84] died, message: 'Weaponsmith was slain by Husk'
+[10Jan2025 04:17:42.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[10Jan2025 04:18:32.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1797, l='ServerLevel[world]', x=-1141.45, y=70.00, z=61.25] died, message: 'Weaponsmith was slain by Zombie'
