@@ -2841,3 +2841,46 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [10Jan2025 21:44:10.641] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
 [10Jan2025 21:44:23.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
 [10Jan2025 21:44:41.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> q mrd tienes
+[10Jan2025 21:44:53.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[10Jan2025 21:45:12.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4170ms or 83 ticks behind
+[10Jan2025 21:45:28.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no lo toques ess mi mascota mrd
+[10Jan2025 21:45:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> me llega dejalo
+[10Jan2025 21:46:09.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[10Jan2025 21:46:14.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya estoy en survival
+[10Jan2025 21:46:44.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was killed whilst fighting ERLIN
+[10Jan2025 21:46:44.031] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-843, y:71, z:1411, dim:minecraft:overworld]
+[10Jan2025 21:46:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Killed Seta33]
+[10Jan2025 21:46:44.081] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[10Jan2025 21:46:51.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
+[10Jan2025 21:47:00.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
+[10Jan2025 21:47:01.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 21:47:01.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 21:47:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> aver golpea el paraguas cion eso
+[10Jan2025 21:47:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nd :v
+[10Jan2025 21:48:03.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> denuevo
+[10Jan2025 21:48:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Irregular24
+[10Jan2025 21:48:05.441] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-851, y:71, z:1422, dim:minecraft:overworld]
+[10Jan2025 21:48:05.448] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[10Jan2025 21:48:07.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[10Jan2025 21:48:12.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> jajaja
+[10Jan2025 21:48:27.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> kbro ps
+[10Jan2025 21:48:36.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> toy que te digo denuevo
+[10Jan2025 21:49:00.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> esa hacha me vas a decir que la encontraste
+[10Jan2025 21:49:06.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ci
+[10Jan2025 21:49:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> fuera mrd
+[10Jan2025 21:49:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> deja vandalizar
+[10Jan2025 21:50:18.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 21:50:25.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[10Jan2025 21:50:30.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
+[10Jan2025 21:50:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[10Jan2025 21:51:22.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 21:52:01.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 21:52:01.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 21:52:11.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[10Jan2025 21:52:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[10Jan2025 21:52:34.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya
+[10Jan2025 21:53:49.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 5.73125127617709,2.2153196202430934,-8.770777395656069
+[10Jan2025 21:53:50.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
+[10Jan2025 21:54:01.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [Infernal Medicine]
+[10Jan2025 21:54:08.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3148ms or 62 ticks behind
+[10Jan2025 21:55:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
