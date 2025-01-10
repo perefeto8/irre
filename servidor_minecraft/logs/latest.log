@@ -290,3 +290,21 @@
 [10Jan2025 22:07:46.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
 [10Jan2025 22:07:46.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
 [10Jan2025 22:07:46.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[10Jan2025 22:17:35.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[10Jan2025 22:17:35.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[10Jan2025 22:17:35.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[10Jan2025 22:17:47.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[10Jan2025 22:17:48.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[10Jan2025 22:17:48.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[10Jan2025 22:24:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> seta tiene cuero??
+[10Jan2025 22:24:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> si
+[10Jan2025 22:25:00.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> cuanto?
+[10Jan2025 22:25:06.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> me vendes 64
+[10Jan2025 22:25:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tengo 41
+[10Jan2025 22:25:24.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> a caunto me sale eso
+[10Jan2025 22:25:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ps ahorita no quiero nada
+[10Jan2025 22:25:49.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> mmmm
+[10Jan2025 22:26:05.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 1 stack de zanahorias doradas
+[10Jan2025 22:26:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> te sirve 33 zanahorias doradas
+[10Jan2025 22:26:32.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya
+[10Jan2025 22:26:50.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> donde nos vemos??

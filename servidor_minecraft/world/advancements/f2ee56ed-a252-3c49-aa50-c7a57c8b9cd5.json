@@ -5896,6 +5896,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-01-10 22:14:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-01-10 21:29:13 +0000"
