@@ -139,3 +139,6 @@
 [10Jan2025 18:04:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -896.500000, 80.500000, 1388.500000]
 [10Jan2025 18:04:22.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
 [10Jan2025 18:22:36.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [The Cutest Predator]
+[10Jan2025 18:32:12.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
+[10Jan2025 18:32:58.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/9938, l='ServerLevel[world]', x=-1308.60, y=64.36, z=1849.30] died, message: 'Nitwit was slain by Door Knight'
+[10Jan2025 18:33:24.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/9543, l='ServerLevel[world]', x=-1241.51, y=70.05, z=1846.46] died, message: 'Weaponsmith was slain by Zombie'
