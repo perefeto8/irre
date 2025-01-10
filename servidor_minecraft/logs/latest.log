@@ -142,3 +142,6 @@
 [10Jan2025 18:32:12.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
 [10Jan2025 18:32:58.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/9938, l='ServerLevel[world]', x=-1308.60, y=64.36, z=1849.30] died, message: 'Nitwit was slain by Door Knight'
 [10Jan2025 18:33:24.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/9543, l='ServerLevel[world]', x=-1241.51, y=70.05, z=1846.46] died, message: 'Weaponsmith was slain by Zombie'
+[10Jan2025 18:41:27.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1316, y=61, z=1838} BlockPos{x=-1316, y=62, z=1839}
+[10Jan2025 18:46:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set the time to 1000]
+[10Jan2025 18:48:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Tactical Fishing]
