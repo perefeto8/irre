@@ -166,3 +166,6 @@
 [10Jan2025 04:53:26.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [10Jan2025 04:56:18.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7533ms or 150 ticks behind
 [10Jan2025 04:56:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[10Jan2025 05:09:04.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 73.500000, 60.500000, -79.500000]
+[10Jan2025 05:09:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -38.500000, 74.500000, -111.500000]
+[10Jan2025 05:10:19.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
