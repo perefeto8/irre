@@ -169,3 +169,29 @@
 [10Jan2025 05:09:04.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 73.500000, 60.500000, -79.500000]
 [10Jan2025 05:09:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -38.500000, 74.500000, -111.500000]
 [10Jan2025 05:10:19.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[10Jan2025 05:21:25.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[10Jan2025 05:21:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[10Jan2025 05:21:25.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[10Jan2025 05:21:37.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Seta33 no longer a server operator
+[10Jan2025 05:21:56.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:34767] logged in with entity id 28862 at (-60.2131452603971, 68.5, -377.7439627404261)
+[10Jan2025 05:21:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[10Jan2025 05:21:56.275] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[10Jan2025 05:21:58.283] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[10Jan2025 05:21:58.285] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[10Jan2025 05:22:10.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[10Jan2025 05:22:11.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[10Jan2025 05:22:11.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[10Jan2025 05:22:20.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[10Jan2025 05:22:20.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[10Jan2025 05:22:20.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[10Jan2025 05:22:35.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jan2025 05:22:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jan2025 05:22:35.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jan2025 05:22:35.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jan2025 05:22:35.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jan2025 05:22:35.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jan2025 05:22:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jan2025 05:22:35.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jan2025 05:22:35.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jan2025 05:22:35.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jan2025 05:22:35.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
