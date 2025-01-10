@@ -5866,5 +5866,11 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2025-01-10 20:59:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
