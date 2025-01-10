@@ -6456,17 +6456,17 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bury_them_all": {
-    "criteria": {
-      "bury_them_all_0": "2025-01-10 00:27:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-01-10 00:26:51 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_0": "2025-01-10 00:27:03 +0000"
+    },
+    "done": false
   },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
