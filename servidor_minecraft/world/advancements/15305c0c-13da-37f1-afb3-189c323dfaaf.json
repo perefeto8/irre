@@ -6510,5 +6510,11 @@
     },
     "done": false
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-10 20:35:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
