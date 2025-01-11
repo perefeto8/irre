@@ -2455,3 +2455,13 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [11Jan2025 04:03:57.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Bonk!]
 [11Jan2025 04:04:07.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [11Jan2025 04:04:20.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[11Jan2025 04:04:49.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Strong Undead]
+[11Jan2025 04:04:56.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Magic Writing]
+[11Jan2025 04:05:36.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:05:36.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:05:53.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Withering Treasures]
+[11Jan2025 04:07:47.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[11Jan2025 04:10:31.067] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[11Jan2025 04:10:31.068] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md100d38$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[11Jan2025 04:10:39.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:10:39.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
