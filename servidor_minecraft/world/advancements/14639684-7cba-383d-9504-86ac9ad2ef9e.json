@@ -25,6 +25,7 @@
       "clifftree:temperate_beach": "2024-12-29 23:09:50 +0000",
       "minecraft:eroded_badlands": "2025-01-09 08:04:32 +0000",
       "clifftree:shrubland": "2024-12-30 22:15:24 +0000",
+      "minecraft:frozen_river": "2025-01-11 04:19:21 +0000",
       "minecraft:cherry_grove": "2025-01-04 21:40:10 +0000",
       "minecraft:sunflower_plains": "2025-01-04 21:40:16 +0000",
       "clifftree:warm_river": "2024-12-30 22:15:17 +0000",
@@ -39,9 +40,11 @@
       "minecraft:sparse_jungle": "2024-12-28 22:50:29 +0000",
       "minecraft:river": "2024-12-28 22:46:38 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 19:05:57 +0000",
+      "minecraft:snowy_plains": "2025-01-11 04:20:55 +0000",
       "minecraft:dripstone_caves": "2024-12-29 01:15:46 +0000",
       "clifftree:warm_caves": "2024-12-29 23:53:43 +0000",
       "minecraft:cold_ocean": "2025-01-04 21:50:41 +0000",
+      "clifftree:frozen_caves": "2025-01-11 04:20:57 +0000",
       "minecraft:forest": "2024-12-29 21:27:11 +0000",
       "clifftree:cold_caves": "2025-01-09 22:19:47 +0000",
       "minecraft:lush_caves": "2024-12-30 22:26:18 +0000",
@@ -6500,27 +6503,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_nether_wart": "2025-01-11 04:05:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-01-11 04:04:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-11 04:05:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-01-11 04:05:53 +0000"
+      "summoned": "2025-01-11 03:39:38 +0000"
     },
     "done": true
   },
@@ -6536,9 +6521,21 @@
     },
     "done": true
   },
-  "majruszsdifficulty:wither_treasure_bag": {
+  "tombstone:adventure/strong_undead": {
     "criteria": {
-      "bag_opened": "2025-01-11 04:05:53 +0000"
+      "coded_trigger": "2025-01-11 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-11 04:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-11 04:05:00 +0000"
     },
     "done": true
   },
@@ -6548,15 +6545,39 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "summoned": "2025-01-11 03:39:38 +0000"
+      "has_nether_wart": "2025-01-11 04:05:53 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_magic_scroll": "2025-01-11 04:04:56 +0000"
+      "has_nether_wart": "2025-01-11 04:05:53 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-11 04:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-11 04:18:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-11 21:24:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-11 21:24:37 +0000"
     },
     "done": true
   },
