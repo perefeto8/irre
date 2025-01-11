@@ -6499,5 +6499,11 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-11 03:39:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

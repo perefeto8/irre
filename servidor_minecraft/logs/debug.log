@@ -2436,3 +2436,8 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [11Jan2025 03:30:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [11Jan2025 03:30:36.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 03:30:36.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 03:35:36.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 03:35:36.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 03:39:38.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Withering Heights]
+[11Jan2025 03:40:36.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 03:40:36.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
