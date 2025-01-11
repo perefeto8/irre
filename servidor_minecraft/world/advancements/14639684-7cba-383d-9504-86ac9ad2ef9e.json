@@ -6575,9 +6575,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-11 22:52:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-11 22:52:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-01-11 21:24:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-11 22:52:07 +0000"
     },
     "done": true
   },
