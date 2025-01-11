@@ -173,3 +173,6 @@
 [11Jan2025 22:58:27.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [11Jan2025 23:00:42.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [11Jan2025 23:01:00.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[11Jan2025 23:05:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -425.500000, 63.500000, 926.500000]
+[11Jan2025 23:10:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -397.500000, 71.500000, -528.500000]
+[11Jan2025 23:10:41.393] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/15219, l='ServerLevel[world]', x=-576.73, y=72.00, z=-553.50]
