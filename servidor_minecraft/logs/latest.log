@@ -146,3 +146,6 @@
 [11Jan2025 21:24:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Not even afraid of death]
 [11Jan2025 21:24:45.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Your First Receptacle]
 [11Jan2025 21:26:37.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[11Jan2025 21:37:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Seta33 a server operator
+[11Jan2025 21:37:57.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[11Jan2025 21:39:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
