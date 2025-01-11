@@ -6569,15 +6569,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_smooth_crystal_quartz": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "has_item": "2025-01-11 23:06:03 +0000"
+      "has_enchanted_voodoo_poppet": "2025-01-11 21:24:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_crystal_quartz_pillar": {
+  "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "has_block": "2025-01-11 23:06:03 +0000"
+      "has_receptacle_of_familiar": "2025-01-11 21:24:45 +0000"
     },
     "done": true
   },
@@ -6587,9 +6587,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/block_pocket_wall": {
+  "tombstone:adventure/revive_familiar": {
     "criteria": {
-      "has_reinforced_crystal_quartz": "2025-01-11 23:06:03 +0000"
+      "coded_trigger": "2025-01-11 22:47:05 +0000"
     },
     "done": true
   },
@@ -6605,6 +6605,30 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-11 22:52:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_crystal_quartz": {
+    "criteria": {
+      "has_item": "2025-01-11 23:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_crystal_quartz_pillar": {
+    "criteria": {
+      "has_block": "2025-01-11 23:06:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_wall": {
+    "criteria": {
+      "has_reinforced_crystal_quartz": "2025-01-11 23:06:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_crystal_quartz_block_from_reinforced_crystal_quartz_block_stonecutting": {
     "criteria": {
       "has_reinforced_crystal_quartz_block": "2025-01-11 23:06:03 +0000"
@@ -6617,21 +6641,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-01-11 21:24:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_crystal_quartz_slab": {
     "criteria": {
       "has_block": "2025-01-11 23:06:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_fishing_rod": {
-    "criteria": {
-      "has_fishing_rod": "2025-01-11 22:52:07 +0000"
     },
     "done": true
   },
@@ -6659,21 +6671,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/revive_familiar": {
-    "criteria": {
-      "coded_trigger": "2025-01-11 22:47:05 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-01-11 21:24:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_crystal_quartz_bricks_from_reinforced_crystal_quartz_block_stonecutting": {
     "criteria": {
       "has_reinforced_crystal_quartz_block": "2025-01-11 23:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-11 23:30:14 +0000"
     },
     "done": true
   },
