@@ -2456,3 +2456,10 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [11Jan2025 21:40:59.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [To be or not to be]
 [11Jan2025 21:45:57.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 21:45:57.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 21:50:57.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:50:57.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 21:55:57.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:55:57.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 21:58:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Firelight
+[11Jan2025 21:58:01.236] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-63, y:63, z:101, dim:minecraft:the_nether]
+[11Jan2025 21:58:01.289] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
