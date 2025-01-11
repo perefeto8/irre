@@ -2451,3 +2451,8 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [11Jan2025 21:37:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Seta33 a server operator
 [11Jan2025 21:37:57.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [11Jan2025 21:39:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[11Jan2025 21:40:57.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:40:57.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 21:40:59.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [To be or not to be]
+[11Jan2025 21:45:57.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:45:57.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
