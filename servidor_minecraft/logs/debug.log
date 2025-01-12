@@ -2424,3 +2424,16 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [11Jan2025 23:49:18.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -87.500000, 95.000000, -2443.500000]
 [11Jan2025 23:49:18.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7984ms or 159 ticks behind
 [11Jan2025 23:49:42.896] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jan2025 23:50:13.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[11Jan2025 23:51:07.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[11Jan2025 23:51:22.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 23:51:22.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 23:51:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -49.500000, 68.500000, -386.500000]
+[11Jan2025 23:54:21.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [The trip ends but the adventure begins]
+[11Jan2025 23:56:22.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 23:56:22.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 23:56:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[11Jan2025 23:57:00.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[11Jan2025 23:57:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[11Jan2025 23:58:55.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -47.500000, 68.500000, -394.500000]
+[12Jan2025 00:00:04.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Soul Magic]

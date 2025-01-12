@@ -28,6 +28,7 @@
       "minecraft:frozen_river": "2025-01-11 04:19:21 +0000",
       "minecraft:cherry_grove": "2025-01-04 21:40:10 +0000",
       "minecraft:sunflower_plains": "2025-01-04 21:40:16 +0000",
+      "minecraft:birch_forest": "2025-01-11 23:49:25 +0000",
       "clifftree:warm_river": "2024-12-30 22:15:17 +0000",
       "clifftree:caves": "2024-12-28 23:14:10 +0000",
       "minecraft:bamboo_jungle": "2024-12-29 21:48:19 +0000",
@@ -41,6 +42,7 @@
       "minecraft:river": "2024-12-28 22:46:38 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 19:05:57 +0000",
       "minecraft:snowy_plains": "2025-01-11 04:20:55 +0000",
+      "minecraft:stony_shore": "2025-01-11 23:49:46 +0000",
       "minecraft:dripstone_caves": "2024-12-29 01:15:46 +0000",
       "clifftree:warm_caves": "2024-12-29 23:53:43 +0000",
       "minecraft:cold_ocean": "2025-01-04 21:50:41 +0000",
@@ -6680,6 +6682,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-11 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lost_tablet": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 23:54:21 +0000"
     },
     "done": true
   },
