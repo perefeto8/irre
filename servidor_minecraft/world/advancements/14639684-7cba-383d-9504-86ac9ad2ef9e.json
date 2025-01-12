@@ -6685,6 +6685,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 00:00:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_lost_tablet": {
     "criteria": {
       "coded_trigger": "2025-01-11 23:54:21 +0000"
