@@ -6805,5 +6805,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-01-12 02:14:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-12 02:19:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
