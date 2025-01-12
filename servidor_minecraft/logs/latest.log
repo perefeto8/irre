@@ -625,3 +625,252 @@ Reason: Banned by an operator.
 [12Jan2025 02:25:03.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [12Jan2025 02:25:03.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [12Jan2025 02:25:03.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:25:40.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:25:40.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:25:40.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:25:40.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:25:40.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:25:40.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:25:40.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:25:40.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:25:41.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:25:41.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:25:41.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:25:41.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:25:47.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[12Jan2025 02:26:02.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:26:02.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:26:02.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:26:02.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:26:02.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:26:02.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:26:02.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:26:02.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:26:03.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:26:03.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:26:03.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:26:03.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:26:39.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[12Jan2025 02:26:41.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[12Jan2025 02:26:41.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:26:41.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:26:41.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:26:41.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:26:41.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:26:41.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:26:41.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:26:41.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:26:42.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:26:42.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:26:42.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:26:42.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:26:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -1027.500000, 104.500000, 1154.500000]
+[12Jan2025 02:27:02.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:27:02.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:27:02.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:27:02.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:27:02.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:27:02.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:27:02.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:27:03.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[12Jan2025 02:27:03.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:27:03.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:27:10.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:27:11.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:27:11.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:27:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Quickly Applied]
+[12Jan2025 02:27:41.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:27:41.973] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:27:41.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:27:41.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:27:41.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:27:41.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:27:42.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:27:42.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:27:43.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:27:43.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:27:43.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:27:43.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:27:55.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe que hacias en observador
+[12Jan2025 02:28:03.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:28:03.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:28:03.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:28:03.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:28:03.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:28:03.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:28:03.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:28:03.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:28:04.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:28:04.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:28:04.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:28:04.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:28:42.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:28:42.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:28:42.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:28:42.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:28:42.321] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:28:42.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:28:42.516] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:28:42.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:28:43.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:28:43.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:28:43.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:28:43.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:29:04.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:29:04.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:29:04.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:29:04.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:29:04.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:29:04.434] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:29:04.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:29:04.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:29:05.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:29:05.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:29:05.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:29:05.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:29:42.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:29:42.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:29:42.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:29:42.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:29:42.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:29:42.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:29:42.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:29:42.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:29:43.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:29:43.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:29:43.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:29:43.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:30:03.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:30:03.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:30:03.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:30:03.787] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:30:03.787] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:30:03.788] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:30:03.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:30:04.995] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:30:04.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:30:05.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:30:06.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:30:06.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:30:23.787] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=8}
+[12Jan2025 02:30:26.123] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[12Jan2025 02:30:27.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13000ms or 260 ticks behind
+[12Jan2025 02:30:27.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 4.938931458338288,-0.875,8.86058797994383
+[12Jan2025 02:30:41.526] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[12Jan2025 02:30:42.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:30:42.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:30:42.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:30:42.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:30:42.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:30:42.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:30:43.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:30:44.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:30:44.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:30:46.305] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:30:47.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:30:47.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:30:48.270] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[12Jan2025 02:30:48.274] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[12Jan2025 02:30:48.274] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[12Jan2025 02:30:48.274] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[12Jan2025 02:30:48.274] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[12Jan2025 02:31:04.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:31:04.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:31:04.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:31:04.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:31:04.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:31:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:31:04.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:31:05.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:31:05.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:31:05.401] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:31:06.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:31:06.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:31:11.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6339ms or 126 ticks behind
+[12Jan2025 02:31:42.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:31:42.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:31:42.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:31:42.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:31:42.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:31:42.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:31:42.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:31:42.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:31:43.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:31:43.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:31:43.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:31:43.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:32:05.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:32:05.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:32:05.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:32:05.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:32:05.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:32:05.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:32:05.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:32:06.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:32:06.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:32:27.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[12Jan2025 02:32:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[12Jan2025 02:32:27.988] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[12Jan2025 02:32:28.046] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jan2025 02:32:44.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:32:44.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:32:44.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:32:45.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:32:46.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:32:46.162] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:33:06.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:33:06.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:33:06.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:33:07.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:33:08.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:33:08.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:33:42.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:33:42.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:33:42.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:33:43.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:33:44.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:33:44.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:34:07.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:34:07.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:34:07.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:34:07.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:34:08.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:34:08.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:34:37.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:58425] logged in with entity id 12788 at (-2187.4665213749518, 68.0, -180.08657944759705)
+[12Jan2025 02:34:37.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[12Jan2025 02:34:37.308] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[12Jan2025 02:34:39.026] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[12Jan2025 02:34:39.028] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:34:45.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:34:45.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:34:45.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:34:45.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:34:46.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:34:46.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:34:47.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:34:48.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:34:48.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:35:08.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:35:08.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:35:08.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:35:08.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:35:08.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:35:08.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:35:08.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:35:08.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:35:09.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:35:09.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:35:09.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:35:09.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 02:35:44.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 02:35:44.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 02:35:44.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 02:35:44.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[12Jan2025 02:35:44.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[12Jan2025 02:35:44.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[12Jan2025 02:35:44.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:35:45.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:35:45.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[12Jan2025 02:35:45.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[12Jan2025 02:35:47.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 02:35:47.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
