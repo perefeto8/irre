@@ -152,3 +152,7 @@
 [12Jan2025 04:22:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [12Jan2025 04:45:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [12Jan2025 04:48:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[12Jan2025 05:04:17.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[12Jan2025 05:06:29.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[12Jan2025 05:06:29.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[12Jan2025 05:06:29.715] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
