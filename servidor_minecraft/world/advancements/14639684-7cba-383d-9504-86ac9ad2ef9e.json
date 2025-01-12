@@ -6685,15 +6685,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+  "tombstone:adventure/use_lost_tablet": {
     "criteria": {
-      "has_red_sandstone": "2025-01-12 00:48:17 +0000"
+      "coded_trigger": "2025-01-11 23:54:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+  "tombstone:adventure/soul_magic": {
     "criteria": {
-      "has_red_sandstone": "2025-01-12 00:48:17 +0000"
+      "coded_trigger": "2025-01-12 00:00:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_village": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 00:16:58 +0000"
     },
     "done": true
   },
@@ -6703,9 +6709,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/soul_magic": {
+  "tombstone:adventure/village_defender": {
     "criteria": {
-      "coded_trigger": "2025-01-12 00:00:04 +0000"
+      "coded_trigger": "2025-01-12 00:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-12 00:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-12 00:48:17 +0000"
     },
     "done": true
   },
@@ -6739,27 +6757,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_lost_tablet": {
-    "criteria": {
-      "coded_trigger": "2025-01-11 23:54:21 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-01-12 00:42:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-01-12 00:48:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_lost_tablet_village": {
-    "criteria": {
-      "coded_trigger": "2025-01-12 00:16:58 +0000"
     },
     "done": true
   },
@@ -6784,6 +6784,18 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-01-12 00:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-12 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-12 00:52:00 +0000"
     },
     "done": true
   },

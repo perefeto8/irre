@@ -57,3 +57,30 @@
 [12Jan2025 00:48:57.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
 [12Jan2025 00:49:13.496] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [12Jan2025 00:50:29.277] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Jan2025 00:52:13.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[12Jan2025 00:54:03.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 00:54:03.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 00:54:03.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 00:54:13.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[12Jan2025 00:54:13.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[12Jan2025 00:54:13.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[12Jan2025 00:54:13.779] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jan2025 00:58:59.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:43039] logged in with entity id 23708 at (1602.699999988079, 70.5, -1254.300000011921)
+[12Jan2025 00:58:59.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[12Jan2025 00:58:59.527] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[12Jan2025 00:59:04.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[12Jan2025 00:59:04.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 00:59:17.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 00:59:18.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 00:59:18.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 00:59:31.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> Seta tienes cuero
+[12Jan2025 01:01:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> oye y este Erlin
+[12Jan2025 01:01:14.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> que cosa es
+[12Jan2025 01:01:48.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> es de Irregular
+[12Jan2025 01:01:55.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> su mascota dijo
+[12Jan2025 01:02:00.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> un witer
+[12Jan2025 01:02:01.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> con que mood lo domestico
+[12Jan2025 01:02:13.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no es domesticable
+[12Jan2025 01:02:19.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> solo lo tiene encerrado
+[12Jan2025 01:02:24.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ah vaya
+[12Jan2025 01:02:29.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> oye tienes cuero
