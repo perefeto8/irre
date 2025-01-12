@@ -6552,6 +6552,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 02:27:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab": {
     "criteria": {
       "has_block": "2025-01-12 02:28:19 +0000"
@@ -6654,12 +6660,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2025-01-12 02:27:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-01-12 02:28:19 +0000"
@@ -6681,6 +6681,18 @@
   "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-01-12 02:28:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/subterfuge_and_discretion": {
+    "criteria": {
+      "coded_trigger": "2025-01-12 02:45:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-01-12 02:44:07 +0000"
     },
     "done": true
   },
