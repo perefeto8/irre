@@ -146,3 +146,19 @@
 [12Jan2025 01:29:31.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [12Jan2025 01:32:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Horror Under the Mantle]
 [12Jan2025 01:33:57.469] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Erickduran2002" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-444, y=64, z=902}] too quickly!
+[12Jan2025 01:37:55.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[12Jan2025 01:37:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[12Jan2025 01:37:55.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[12Jan2025 01:39:35.871] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b449a85[id=<null>,name=Erickduran2002,properties={},legacy=false] (/127.78.245.127:56685) lost connection: Disconnected
+[12Jan2025 01:40:13.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:43791] logged in with entity id 36801 at (-441.95538675232365, 64.0, 906.0948081911421)
+[12Jan2025 01:40:13.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[12Jan2025 01:40:13.693] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[12Jan2025 01:40:13.697] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[12Jan2025 01:40:13.698] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[12Jan2025 01:40:40.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[12Jan2025 01:40:40.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[12Jan2025 01:40:40.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[12Jan2025 01:40:43.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[12Jan2025 01:40:43.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[12Jan2025 01:40:43.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[12Jan2025 01:44:05.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
