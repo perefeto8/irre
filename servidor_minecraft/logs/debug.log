@@ -3120,3 +3120,44 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [12Jan2025 01:11:56.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> a cambio del las zanahorias
 [12Jan2025 01:12:13.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya
 [12Jan2025 01:12:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> donde estas?
+[12Jan2025 01:13:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> en mi casa
+[12Jan2025 01:13:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> entra a tu portal del nether y dame ubi
+[12Jan2025 01:13:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> a esta hora se buguea
+[12Jan2025 01:13:33.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9412ms or 188 ticks behind
+[12Jan2025 01:13:33.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> me da mucho lag
+[12Jan2025 01:13:52.829] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[12Jan2025 01:13:53.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> te parece si me dejas en un cofre arriba de mi casa mañana
+[12Jan2025 01:13:54.973] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[12Jan2025 01:15:14.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> sake
+[12Jan2025 01:15:16.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> sale
+[12Jan2025 01:15:31.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> te dejo las zanahorias en el mismo cofre va
+[12Jan2025 01:15:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> estoy en ti casa
+[12Jan2025 01:16:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> salgo
+[12Jan2025 01:16:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> no te veo
+[12Jan2025 01:16:54.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 01:16:54.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 01:17:10.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> quieres mas
+[12Jan2025 01:17:19.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> puedo hacer 11 mas
+[12Jan2025 01:17:20.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tienes mas?
+[12Jan2025 01:17:27.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> y esta cosa?
+[12Jan2025 01:17:49.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> mira quien lo puso
+[12Jan2025 01:17:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> jajaja
+[12Jan2025 01:18:01.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ese wn
+[12Jan2025 01:18:10.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya vez
+[12Jan2025 01:21:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> toma
+[12Jan2025 01:21:18.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> gracias
+[12Jan2025 01:21:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> es mas facil sacar cuero pescando
+[12Jan2025 01:21:26.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> tienes posicion de invi
+[12Jan2025 01:21:31.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> nou
+[12Jan2025 01:21:38.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> es un artefacto
+[12Jan2025 01:21:45.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> si
+[12Jan2025 01:21:50.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ah ese es bueno
+[12Jan2025 01:21:54.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 01:21:54.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 01:21:59.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> jajaja
+[12Jan2025 01:22:22.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> voy a pescar un rato
+[12Jan2025 01:22:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> dale
+[12Jan2025 01:22:56.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tendras madera o un cofre para dejar cosas ahi?
+[12Jan2025 01:23:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si tengo
+[12Jan2025 01:23:08.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> quieres
+[12Jan2025 01:23:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zy
