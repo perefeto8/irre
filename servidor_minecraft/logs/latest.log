@@ -137,3 +137,12 @@
 [12Jan2025 04:02:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [12Jan2025 04:03:34.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7573ms or 151 ticks behind
 [12Jan2025 04:05:07.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[12Jan2025 04:09:34.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[12Jan2025 04:09:43.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[12Jan2025 04:13:16.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[12Jan2025 04:13:57.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: The difficulty has been set to Peaceful]
+[12Jan2025 04:15:01.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[12Jan2025 04:15:05.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[12Jan2025 04:15:23.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[12Jan2025 04:16:18.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: The difficulty has been set to Hard]
+[12Jan2025 04:17:11.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
