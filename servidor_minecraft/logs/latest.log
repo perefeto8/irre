@@ -9,3 +9,17 @@
 [12Jan2025 00:18:37.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
 [12Jan2025 00:20:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gave 1 [Fishing Rod] to Seta33]
 [12Jan2025 00:21:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gave 1 [Fishing Rod] to Seta33]
+[12Jan2025 00:22:25.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[12Jan2025 00:24:11.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[12Jan2025 00:24:45.232] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62b69ba7[id=<null>,name=Erickduran2002,properties={},legacy=false] (/127.78.245.127:40059) lost connection: Internal Exception: java.lang.ArrayIndexOutOfBoundsException: Index 15 out of bounds for length 15
+[12Jan2025 00:25:20.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3420ada0[id=<null>,name=Erickduran2002,properties={},legacy=false] (/127.78.245.127:45891) lost connection: Disconnected
+[12Jan2025 00:25:34.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:47503] logged in with entity id 8321 at (-408.59102668426846, 63.16733728089129, 83.30000001192093)
+[12Jan2025 00:25:34.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[12Jan2025 00:25:34.905] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[12Jan2025 00:25:36.056] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[12Jan2025 00:25:36.058] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[12Jan2025 00:25:41.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[12Jan2025 00:25:42.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[12Jan2025 00:25:42.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[12Jan2025 00:25:52.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2899ms or 57 ticks behind
+[12Jan2025 00:31:20.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Home Sweet Home]
