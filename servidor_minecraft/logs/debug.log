@@ -3105,3 +3105,18 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [12Jan2025 01:02:19.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> solo lo tiene encerrado
 [12Jan2025 01:02:24.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ah vaya
 [12Jan2025 01:02:29.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> oye tienes cuero
+[12Jan2025 01:02:35.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> estoy en busca de vacas
+[12Jan2025 01:03:52.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> si creo
+[12Jan2025 01:03:58.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> pero estor lejasos
+[12Jan2025 01:04:31.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> vaya entonces seguire rondando por esta zona
+[12Jan2025 01:06:45.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 01:06:45.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 01:06:48.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved wrongly!
+[12Jan2025 01:08:37.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tengo 57 de cuero
+[12Jan2025 01:10:28.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-633, y=53, z=1170} BlockPos{x=-633, y=52, z=1170}
+[12Jan2025 01:11:43.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> me das
+[12Jan2025 01:11:45.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 01:11:45.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 01:11:56.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> a cambio del las zanahorias
+[12Jan2025 01:12:13.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya
+[12Jan2025 01:12:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> donde estas?
