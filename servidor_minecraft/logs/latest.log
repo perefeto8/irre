@@ -139,3 +139,7 @@
 [12Jan2025 02:43:49.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
 [12Jan2025 02:45:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [Subterfuge & Discretion]
 [12Jan2025 02:49:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -43.500000, 68.500000, -367.500000]
+[12Jan2025 02:58:08.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -10.159235551839402,-0.5265804259836528,1.7453445266443168
+[12Jan2025 03:00:07.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[12Jan2025 03:00:16.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[12Jan2025 03:01:30.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9957ms or 199 ticks behind
