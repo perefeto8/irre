@@ -2444,3 +2444,15 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [12Jan2025 00:06:22.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Jan2025 00:06:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [12Jan2025 00:10:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[12Jan2025 00:11:22.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 00:11:22.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 00:13:29.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[12Jan2025 00:13:44.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[12Jan2025 00:13:57.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[12Jan2025 00:16:22.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 00:16:22.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 00:16:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [A new home]
+[12Jan2025 00:18:37.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[12Jan2025 00:20:08.791] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[12Jan2025 00:20:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gave 1 [Fishing Rod] to Seta33]
+[12Jan2025 00:21:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gave 1 [Fishing Rod] to Seta33]
