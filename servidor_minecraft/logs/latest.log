@@ -130,3 +130,19 @@
 [12Jan2025 01:23:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si tengo
 [12Jan2025 01:23:08.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> quieres
 [12Jan2025 01:23:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zy
+[12Jan2025 01:27:13.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[12Jan2025 01:27:13.973] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[12Jan2025 01:27:13.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 01:27:20.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[12Jan2025 01:27:20.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[12Jan2025 01:27:20.071] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[12Jan2025 01:29:06.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:44739] logged in with entity id 34911 at (-415.60081637358843, 63.0, 947.2367220068406)
+[12Jan2025 01:29:06.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[12Jan2025 01:29:06.149] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[12Jan2025 01:29:09.099] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[12Jan2025 01:29:09.100] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[12Jan2025 01:29:30.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 01:29:31.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[12Jan2025 01:29:31.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[12Jan2025 01:32:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Horror Under the Mantle]
+[12Jan2025 01:33:57.469] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Erickduran2002" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-444, y=64, z=902}] too quickly!
