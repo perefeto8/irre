@@ -146,3 +146,30 @@
 [14Jan2025 02:50:50.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [14Jan2025 03:04:27.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Knowledge Wasted]
 [14Jan2025 03:06:21.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8135ms or 162 ticks behind
+[14Jan2025 03:06:48.200] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[14Jan2025 03:07:41.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[14Jan2025 03:07:41.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[14Jan2025 03:07:41.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[14Jan2025 03:07:51.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[14Jan2025 03:07:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[14Jan2025 03:07:51.589] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[14Jan2025 03:07:51.684] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 03:08:10.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:60321] logged in with entity id 3491 at (-3102.300000011921, 62.0, 16.632758701484153)
+[14Jan2025 03:08:10.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[14Jan2025 03:08:10.836] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[14Jan2025 03:08:12.146] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[14Jan2025 03:08:12.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[14Jan2025 03:08:18.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[14Jan2025 03:08:19.044] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[14Jan2025 03:08:19.045] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[14Jan2025 03:09:36.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[14Jan2025 03:09:36.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[14Jan2025 03:09:36.332] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[14Jan2025 03:10:31.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:56245] logged in with entity id 4267 at (-1279.9186994690663, 68.0, 1842.2391179490864)
+[14Jan2025 03:10:31.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[14Jan2025 03:10:31.270] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[14Jan2025 03:10:32.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[14Jan2025 03:10:32.487] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[14Jan2025 03:10:38.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[14Jan2025 03:10:39.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[14Jan2025 03:10:39.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat

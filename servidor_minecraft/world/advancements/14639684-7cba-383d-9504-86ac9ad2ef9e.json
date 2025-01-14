@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "clifftree:sparse_forest": "2024-12-22 18:42:26 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-01-14 03:10:53 +0000",
       "minecraft:taiga": "2025-01-09 08:34:09 +0000",
       "minecraft:deep_ocean": "2025-01-09 08:03:23 +0000",
       "clifftree:temperate_beach": "2024-12-29 23:09:50 +0000",
@@ -6814,6 +6815,12 @@
   "tombstone:adventure/use_reach": {
     "criteria": {
       "has_magic_scroll": "2025-01-12 02:19:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/knowledge_wasted": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 03:04:27 +0000"
     },
     "done": true
   },
