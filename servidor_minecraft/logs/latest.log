@@ -225,3 +225,29 @@
 [14Jan2025 04:18:09.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
 [14Jan2025 04:18:09.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
 [14Jan2025 04:18:09.927] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[14Jan2025 04:21:07.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:48693] logged in with entity id 18400 at (3068.2484050313033, 68.0, -470.29417354293406)
+[14Jan2025 04:21:07.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[14Jan2025 04:21:07.340] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[14Jan2025 04:21:09.847] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[14Jan2025 04:21:09.848] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[14Jan2025 04:21:17.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[14Jan2025 04:21:18.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[14Jan2025 04:21:18.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[14Jan2025 04:26:16.914] [Worker-Main-141/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[14Jan2025 04:28:10.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
+[14Jan2025 04:29:07.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[14Jan2025 04:29:20.624] [Worker-Main-113/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[14Jan2025 04:29:56.981] [Worker-Main-113/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[14Jan2025 04:30:14.922] [Worker-Main-142/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[14Jan2025 04:30:17.587] [Worker-Main-113/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[14Jan2025 04:30:18.016] [Worker-Main-142/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[14Jan2025 04:32:25.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[14Jan2025 04:33:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[14Jan2025 04:33:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[14Jan2025 04:35:34.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[14Jan2025 04:42:26.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[14Jan2025 04:42:26.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[14Jan2025 04:42:26.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[14Jan2025 04:42:41.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[14Jan2025 04:42:41.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[14Jan2025 04:42:41.730] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
