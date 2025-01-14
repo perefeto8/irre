@@ -144,3 +144,5 @@
 [14Jan2025 02:50:49.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [14Jan2025 02:50:50.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [14Jan2025 02:50:50.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[14Jan2025 03:04:27.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Knowledge Wasted]
+[14Jan2025 03:06:21.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8135ms or 162 ticks behind
