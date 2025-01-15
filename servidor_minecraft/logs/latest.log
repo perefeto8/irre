@@ -145,3 +145,18 @@
 [15Jan2025 02:15:08.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13065ms or 261 ticks behind
 [15Jan2025 02:20:00.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [15Jan2025 02:20:13.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[15Jan2025 02:28:49.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
+[15Jan2025 02:31:02.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 0.17524156298100024,9.445041296261493,-3.976606733544031
+[15Jan2025 02:31:04.216] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15Jan2025 02:31:49.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[15Jan2025 02:31:49.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[15Jan2025 02:31:49.917] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[15Jan2025 02:31:50.047] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jan2025 02:32:18.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:39423] logged in with entity id 3698 at (1725.699999988079, 137.24854391536618, -8389.882713373974)
+[15Jan2025 02:32:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[15Jan2025 02:32:18.884] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[15Jan2025 02:32:20.475] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[15Jan2025 02:32:20.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[15Jan2025 02:32:28.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 02:32:29.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 02:32:29.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
