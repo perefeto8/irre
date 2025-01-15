@@ -250,3 +250,19 @@
 [15Jan2025 03:13:46.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [15Jan2025 03:13:47.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [15Jan2025 03:13:47.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[15Jan2025 03:14:20.947] [Worker-Main-106/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jan2025 03:14:39.404] [Worker-Main-106/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[15Jan2025 03:15:11.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[15Jan2025 03:15:11.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[15Jan2025 03:15:11.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[15Jan2025 03:15:39.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:53213] logged in with entity id 15480 at (-2159.963987582591, 62.342746206982916, -2291.5959189237005)
+[15Jan2025 03:15:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[15Jan2025 03:15:40.024] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[15Jan2025 03:15:40.897] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[15Jan2025 03:15:40.899] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[15Jan2025 03:15:45.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 03:15:46.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 03:15:46.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[15Jan2025 03:18:14.210] [Worker-Main-105/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jan2025 03:18:36.525] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jan2025 03:19:59.426] [Worker-Main-105/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
