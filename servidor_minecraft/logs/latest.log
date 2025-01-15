@@ -163,3 +163,29 @@
 [15Jan2025 02:34:42.830] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [15Jan2025 02:36:48.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Trick or Treat]
 [15Jan2025 02:39:50.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -0.01616092117342305,9.125748572092164,-4.718869772756079
+[15Jan2025 02:44:05.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[15Jan2025 02:44:05.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[15Jan2025 02:44:05.051] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[15Jan2025 02:45:25.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:35799] logged in with entity id 6329 at (-66.32330909288373, 68.5, -383.5972216642392)
+[15Jan2025 02:45:25.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[15Jan2025 02:45:25.507] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[15Jan2025 02:45:25.986] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[15Jan2025 02:45:25.987] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[15Jan2025 02:45:33.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 02:45:34.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 02:45:34.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[15Jan2025 02:49:15.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[15Jan2025 02:49:18.113] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15Jan2025 02:49:40.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[15Jan2025 02:49:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[15Jan2025 02:49:40.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[15Jan2025 02:50:06.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:42767] logged in with entity id 7769 at (-986.8638601520472, 67.0, -2151.48188119488)
+[15Jan2025 02:50:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[15Jan2025 02:50:06.940] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[15Jan2025 02:50:07.938] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[15Jan2025 02:50:07.940] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[15Jan2025 02:50:12.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 02:50:13.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[15Jan2025 02:50:13.640] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[15Jan2025 02:50:25.080] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[15Jan2025 02:51:43.470] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
